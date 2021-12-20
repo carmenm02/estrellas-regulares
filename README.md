@@ -1,5 +1,8 @@
 # estrellas-regulares
 El enlace de mi repositorio es: https://github.com/carmenm02/estrellas-regulares.git
+
+El trabajo consiste en crear una estrella con la cantidad de puntas que queramos y para ello debemos de calcular los ángulos necesarios
+
 El codigo que he usado es:
 
 import turtle
